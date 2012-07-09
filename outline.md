@@ -33,8 +33,8 @@ into units, which are intended to be of approximately equal duration
 and emphasis (with suggested typical topic within each unit).
 
 Topic 1 Fluids
-      a) Buoyancy
-      b) Bernoulli’s equation
+        a) Buoyancy
+        b) Bernoulli’s equation
 
 Topic 2 Waves in elastic media
 	a) Transverse waves and longitudinal waves
