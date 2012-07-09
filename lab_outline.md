@@ -42,37 +42,35 @@ Topic 2 Propagation of errors and error analysis
 Topic 3 Fluids and Waves in Elastic Media
       a) Buoyancy
       b) Bernoulli’s equation
-      c)  Waves on a string
-      d)  Fluid waves
-      e)  Interference effects
+      c) Waves on a string
+      d) Fluid waves
+      e) Interference effects
 
 Topic 4 Heat Transfer and Entropy
-	a) Heat capacity 
-	b) Heat engines
-
-
-
-								
+      a) Heat capacity 
+      b) Heat engines
+		
+						
 Topic 5 Electric Circuits	
-	a) Digital measurements
-	b) AC circuits
-	c) Energy storage
+      a) Digital measurements
+      b) AC circuits
+      c) Energy storage
 
 							
 Topic 6 Electroscope and Electric Fields
-	a) Charge and charge density
-	b) Test charges and charge density 
+      a) Charge and charge density
+      b) Test charges and charge density 
 
 Topic 7 Magnetic field
-	a) Magnetic charge
-	b) Magnetic force
-	c) Induction	
+      a) Magnetic charge
+      b) Magnetic force
+      c) Induction	
 
 Topic 8 Light
-	a) Rays
-	b) Mirrors
-	c) Polarization
-	d) Diffraction	
+      a) Rays
+      b) Mirrors
+      c) Polarization
+      d) Diffraction	
 
 REQUIRED TEXT BOOK(S)/SOFTWARE (to be purchased by students): 
 TBA

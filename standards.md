@@ -28,21 +28,15 @@ STANDARDS LIST
      7. I can determine properties of sound waves
 
 3. Nature and Propagation of Light
-     1. 
-
-4. Reflection and Refraction
     1.  I can compute the magnification of a system of lenses or mirrors
     2.  I can compute the position of image formation of a system of lenses or mirrors
     3.  I can construct a system of lenses or mirrors to form an image
     4.  I can explain the limitations of the ray optics approach to light
     5.  I can make computations of the effects of diffraction, refraction, and polarization
 
-5. Interference and Diffraction
-
-6. Heat
+6. Heat and Entropy
      1. I can explain the macroscopic observation that “heat flows from high temperature to low temperature” in terms of statistical processes
 
-7. Entropy
 
 8. Electric Forces
      1. I can compute the force between two point charges
