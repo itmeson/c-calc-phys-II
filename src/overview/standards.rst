@@ -1,5 +1,5 @@
-STANDARDS LIST
-==============
+STANDARDS 
+#########
 
 
  0.  Introduction, review of basic mechanics and energy
