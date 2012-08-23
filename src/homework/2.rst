@@ -1,0 +1,20 @@
+Homework 2 
+##########
+
+:date: 2012-09-11
+:category: homework
+:tags: kinematics, dynamics
+
+
+
+
+1. Conceptual Questions: 5.1, 5.3, 5.4, 5.5, 5.11, 5.13, 5.19
+
+2. Problems: 5.2, 5.7
+
+3. Suppose an object of mass $15 kg$ moves according to the equation: $ x(t) = 2.3 x^2 - 5x + 10 $.  Write expressions for the velocity, acceleration, and force acting on the object. 
+
+4. Submit these problems on paper at the beginning of the next class.  Write
+full explanations for all problems.
+
+

@@ -1,0 +1,46 @@
+Lesson 2
+########
+
+:date: 2012-09-06
+:category: lessons
+:tags: calculus, kinematics, dynamics
+:summary: Further review of the use of calculus in mechanics, and beginning of fluids
+
+==========
+Intro Quiz
+==========
+
+1. Calculus and kinematics
+2. In-group corrections
+
+========
+Homework
+========
+
+1. Check in and go over problems
+
+
+==================================
+Kinematics, Dynamics, and Calculus
+==================================
+
+1. OQ 2.18: Which image shows ...?
+
+2. Derivative practice
+
+3. What causes changes in velocity?
+
+4. Free body diagrams: the elevator.  Test in real elevator (need scales)
+
+5. Equations of motion from forces
+
+
+========
+Homework
+========
+
+1. See Homework2_
+
+.. _Homework2: ../homework-2.html
+
+
