@@ -1,0 +1,144 @@
+Lesson 1 
+########
+
+:date: 2012-09-04
+:category: lessons
+:tags: introduction, overview, calculus
+:summary: Introduction to the course and review of calculus
+
+
+================
+What is physics?
+================
+
+Physics is about understanding, at a deep level, what is really going on in
+the processes we see around us all the time, and also learning how to predict the future.  I can tell you exactly what will happen in situations I haven't seen before, because I can do the math to predict what will happen.
+
+
+
+Physics II teaches you the basic principles, techniques, and thought processes
+necessary to understand the transfer of energy through solids and fluids in the
+form of waves, electric and magnetic fields, and light.  In addition you will
+be able to analyze the claims of scientists and politicians as they relate to
+the environment and other issues. You'll also practice developing explanatory
+models for different phenomena, and testing those models using experiments you
+will design yourself.
+
+Many people dislike science and math because it makes them feel stupid. Because
+scientists are unusually good at saying "You're wrong!"
+
+If you learn nothing else in this class, I want you to learn this: Being Wrong
+is Good. You cannot improve unless you hit the wall of your current
+limitations. Being wrong is a sign that you've hit one of those walls, and is
+therefore a signal about where you need to work. The goal is of course to
+become not-wrong, but you cannot get there without going through some
+wrongness. My job is to help you find those limits without hurting you, so you
+can push them back.
+
+I believe that this is true of everything worth doing, but it is particularly
+clear in math and science, where the whole process works by proposing models
+and testing them. A model cannot be a good model if there is no way that you
+could discover it is false. People have an unfortunate tendency to seek out
+evidence that supports their current belief, missing the evidence that
+contradicts it. You are much more likely to avoid being misled by forming a
+prediction/model/explanation/etc. that you think is good, then writing down
+what kinds of evidence would show that you are WRONG, and then to go looking
+for that CONTRADICTORY evidence.
+
+The first thing we're going to do is take a test. The point of this test is to
+help me ensure that I'm actually teaching you something. I'm setting up an
+experiment, and my hypothesis is that you are going to learn a lot of physics
+this term. That's what I want to have happen.  So I've identified a lot of
+things that would count as evidence that you have NOT learned any physics,
+and I will test you on them repeatedly through the term. Your grade will depend
+on convincing me, over and over again, that you have learned specific concepts
+and skills. The more things you try to convince me about, the
+higher your grade can potentially get.
+
+But for my tests to work, I have to have some information about where you're at
+right now. Because one possible way that I could be misled is if you happen to
+ALREADY know a lot. So this test is designed to help me find that
+out. It's multiple choice, it's hard, and you should do your absolute best on
+it -- think about the questions, they are designed to be tricky. When you are
+finished, bring it up to me, and I have an assignment for you to work on for
+next time, that you should get started on.
+
+==========
+The Course
+==========
+
+The class is not going to be easy. I'm not saying that to frighten you, I only
+want to be as honest as possible. It will require work. A university course
+expects that you should spend 1-2 hours outside of class for every hour in
+class -- which corresponds to 4-8 hours for the lecture portion of the class,
+and another 3-6 hours for the lab. That's just how much time it takes to
+process and learn so you can expand your skills and knowledge. So I'm giving
+assignments that will take up a chunk of that time, and expecting that you will
+fill in time as needed to keep up. I know that many of you have jobs and other
+expectations, and I respect that, but I still expect some comittment from you
+to get the most possible out of this class. I promise that I will never waste
+your time, or give you work just to fill in the time -- it will always be
+carefully planned to help you get as much as possible out of your investment.
+
+The grading for the class will be different from what you've probably seen
+before. The lion's share of your grade will come from a long list of skills and
+concepts that I've identified as being particularly important. You can find the
+list on the syllabus, on ulearn, and on the course blog at
+markbetnel.com/genphys. You should read that list frequently. I will give you
+quizzes, tests, and assignments that are designed to test those skills, and
+give you scores on a 1-4 scale that reflect your level of proficiency in each
+one. If you get 4's on 90% of the skills, you will get an A for the standards
+mastery portion of the course. If you get 4's on 80% of the skills, you will
+get a B. If you ever get lower than a 4 on a skill, you are expected to make an
+effort to improve your performance on it. Once you convince me that you are
+going to do better on a new attempt at that skill, I will give you a new chance
+to prove it. Your scores in the gradebook will reflect your highest level of
+performance on each skill (so there is no cost to trying multiple times).
+
+You should also try to identify skills that I have not mentioned -- if you can
+convince me that there is an important skill that is not on the list, I will
+create an assessment for that skill and give you a chance to prove your mastery
+of that as well. So there is an opportunity to take control of what you will
+learn and master in the course, and an incentive to reflect on what you have
+learned and on your grades.
+
+The rest of your grade will come from expected sources -- quiz scores on your
+first attempt, the final exam, homework, attendance and participation, etc.
+
+====
+Math
+====
+
+The math in this course is one thing that messes a lot of people up.  We're
+using calculus to describe physical processes, and doing so depends on you
+being somewhat fluent in how to do derivatives, integrals, and simple
+differential equations.  In my experience, most students coming into this class
+don't have a very strong background in this, so we have to spend some time
+reviewing it.  If you're not confident about your math background, the single
+best thing you can do is to go back to your old calculus homework and redo
+problems on derivatives and integrals of polynomial functions, and to really
+think about what a derivative *is* and what an integral *is*.  If you
+understand what those operations are really doing, you will be in enormously
+better shape.  So our first in-class work is designed to help review some of
+that calculus while refreshing your memory about the mechanics you had in
+Physics I.
+
+1.  Describe motion of person walking using
+   
+    a. Graphs
+    b. Equations
+    c. Derivative/Integral
+
+2.  What is the relation between rates and the graphs? The equation?
+
+3.  How do we translate between rates and quantities?
+
+========
+Homework
+========
+
+1. See Homework1_
+
+.. _Homework1: ../homework-1.html
+
+

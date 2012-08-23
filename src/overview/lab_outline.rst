@@ -1,5 +1,15 @@
+Lab Outline
+###########
+
+:date: 2012-09-04
+:summary: Course outline for Physics I Lab
+:tags: lab, overview
+:category: overview
+
+
+
 COURSE DESCRIPTION
-=================== 
+================== 
 
 SCI2012L is an introductory calculus based Physics Laboratory class
 that meets 3 hours per week. It is an inquiry based laboratory course
@@ -20,16 +30,17 @@ COURSE OBJECTIVES
 
 Upon satisfactory completion of this course, a student should have the ability to:
 
- 1. Apply the scientific method of inquiry during all laboratory activities
- 2. Construct proper, organized and supervised experiments in search of solutions to directed laboratory research questions that originate from an original hypothesis.
- 3. Choose the most appropriate physics conceptual frameworks to guide their decisions in planning the use of laboratory equipment required to explore the student’s hypothesis.
- 4. Analyze resulting data to propose logical conclusions.
- 5. Evaluate their findings with predicted outcomes to appraise their hypothesis.
- 6. Apply oral communications in cooperative learning teams and written communication skills recorded in laboratory notebooks and laboratory reports.
- 7. Analyze and evaluate prior research of laboratory subject matter to gain an informed perspective on laboratory experiments.
- 8. Students will synthesize main ideas to construct new concepts by
-    a. Recognizing interrelationships among concepts and combining them into potentially useful primary statements with supporting evidence. 
-    b. Extending initial synthesis, when possible, at a higher level of abstraction to construct new hypothesis that may require additional information.
+1. Apply the scientific method of inquiry during all laboratory activities
+2. Construct proper, organized and supervised experiments in search of solutions to directed laboratory research questions that originate from an original hypothesis.
+3. Choose the most appropriate physics conceptual frameworks to guide their decisions in planning the use of laboratory equipment required to explore the student’s hypothesis.
+4. Analyze resulting data to propose logical conclusions.
+5. Evaluate their findings with predicted outcomes to appraise their hypothesis.
+6. Apply oral communications in cooperative learning teams and written communication skills recorded in laboratory notebooks and laboratory reports.
+7. Analyze and evaluate prior research of laboratory subject matter to gain an informed perspective on laboratory experiments.
+8. Students will synthesize main ideas to construct new concepts by
+
+   a. Recognizing interrelationships among concepts and combining them into potentially useful primary statements with supporting evidence. 
+   b. Extending initial synthesis, when possible, at a higher level of abstraction to construct new hypothesis that may require additional information.
 
 CONTENT OUTLINE
 ===============
@@ -40,40 +51,41 @@ Topic 1 Introduction and Orientation
 Topic 2 Propagation of errors and error analysis
 
 Topic 3 Fluids and Waves in Elastic Media
-      a) Buoyancy
-      b) Bernoulli’s equation
-      c) Waves on a string
-      d) Fluid waves
-      e) Interference effects
+        a) Buoyancy
+        b) Bernoulli’s equation
+        c) Waves on a string
+        d) Fluid waves
+        e) Interference effects
 
 Topic 4 Heat Transfer and Entropy
-      a) Heat capacity 
-      b) Heat engines
+        a) Heat capacity 
+        b) Heat engines
 		
 						
 Topic 5 Electric Circuits	
-      a) Digital measurements
-      b) AC circuits
-      c) Energy storage
+        a) Digital measurements
+        b) AC circuits
+        c) Energy storage
 
 							
 Topic 6 Electroscope and Electric Fields
-      a) Charge and charge density
-      b) Test charges and charge density 
+        a) Charge and charge density
+        b) Test charges and charge density 
 
 Topic 7 Magnetic field
-      a) Magnetic charge
-      b) Magnetic force
-      c) Induction	
+        a) Magnetic charge
+        b) Magnetic force
+        c) Induction	
 
 Topic 8 Light
-      a) Rays
-      b) Mirrors
-      c) Polarization
-      d) Diffraction	
+        a) Rays
+        b) Mirrors
+        c) Polarization
+        d) Diffraction	
+
 
 REQUIRED TEXT BOOK(S)/SOFTWARE (to be purchased by students): 
-TBA
+Students are expected to have the Serway and Jewett text that is required for the lecture course.
 
 EVALUATIVE CRITERIA:	
 1. Final grades will be based on at least four graded items one of which will be an examination administered at the official scheduled final exam time.
