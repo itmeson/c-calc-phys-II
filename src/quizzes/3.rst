@@ -1,0 +1,14 @@
+Quiz 3 
+######
+
+:date: 2012-09-13
+:category: quizzes
+:tags: 0.3, 1.1, 1.2
+
+1.  Draw a free body diagram considering all the forces acting on a cube of
+iron which is attached to a string, which is itself attached to a block of wood floating on the surface of a tub of water.  Label all forces.
+
+
+2.  A cube of wood, with density 0.7 kg per $m^3$ and side length $1 cm$ floats on the surface of a tub of water.  What percentage of the cube lies beneath the water's surface?
+
+

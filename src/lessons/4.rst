@@ -1,0 +1,46 @@
+Lesson 4 
+########
+
+:date: 2012-09-13
+:category: lessons
+:tags: fluids, buoyancy, force, pressure, bernoulli
+:summary: Using the pressure concept to understand buoyant forces and Bernoulli's principle
+
+==========
+Intro Quiz
+==========
+
+1. Quiz 3
+2. In-group corrections
+
+========
+Homework
+========
+
+1. Check in and go over problems
+
+
+===============
+Buoyancy
+===============
+
+1. PhET simulation of buoyant forces.  Make predictions, draw FBD's, construct
+and compare models
+
+2. The force on a dam
+
+3. Measuring pressure
+
+4. Continuity equation and fluid or traffic flow
+
+5. Begin Bernoulli
+
+========
+Homework
+========
+
+1. See Homework4_
+
+.. _Homework4: ../homework-4.html
+
+

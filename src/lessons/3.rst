@@ -1,0 +1,55 @@
+Lesson 3 
+########
+
+:date: 2012-09-11
+:category: lessons
+:tags: dynamics, fluids, 
+:summary: Extending our experience with forces and free body diagrams to handle forces within fluids
+
+==========
+Intro Quiz
+==========
+
+1. Quiz 2
+2. In-group corrections
+
+========
+Homework
+========
+
+1. Check in and go over problems
+
+
+=============================
+Free body diagrams and fluids
+=============================
+
+1. Leaky soda bottle
+
+   a.  Predict
+   b.  Observe
+   c.  Propose explanations and tests
+   d.  Do tests
+   e.  Construct models
+
+2. Cartesian diver
+
+   a. Predict
+   b. Observe
+   c. etc.
+
+3. The pressure concept
+
+4. Differential relations
+
+
+
+========
+Homework
+========
+
+1. See Homework3_
+
+.. _Homework3: ../homework-three.html
+
+

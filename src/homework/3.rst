@@ -1,0 +1,17 @@
+Homework Three 
+##############
+
+:date: 2012-09-13
+:category: homework
+:tags: dynamics, fluids
+
+
+
+
+1. Conceptual Questions: 14.1, 14.4 
+
+2. Problems: 14.2 (use order of magnitude- OM), 14.3, 14.4 (OM), 14.5, 14.6, 14.7, 14.12, 14.23 
+
+3. Submit these problems on paper at the beginning of the next class.
+
+
