@@ -46,7 +46,9 @@ STANDARDS
 6. Heat and Entropy
 
    1. I can explain the macroscopic observation that “heat flows from high temperature to low temperature” in terms of statistical processes
-
+   2. I can compute the rate of energy flow through materials using specific heat and conductivity
+   3. I can explain the functioning of a heat engine in
+   4. I can explai the distinction between a reversible and an irreversible process
 
 8. Electric Forces
 

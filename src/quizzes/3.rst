@@ -4,6 +4,7 @@ Quiz 3
 :date: 2012-09-13
 :category: quizzes
 :tags: 0.3, 1.1, 1.2
+:status: draft
 
 1.  Draw a free body diagram considering all the forces acting on a cube of
 iron which is attached to a string, which is itself attached to a block of wood floating on the surface of a tub of water.  Label all forces.

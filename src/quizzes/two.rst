@@ -4,6 +4,7 @@ Quiz Two
 :date: 2012-09-11
 :category: quizzes
 :tags: kinematics, 0.1, 0.2, 0.3
+:status: draft
 
 1. If $100 kg$ was the most you could bench press, with what speed could you
 *throw* $50 kg$ from the bench position?  Explain your reasoning and any
