@@ -23,6 +23,7 @@ help:
 	@echo '   ssh_upload                       upload the web site using SSH     '
 	@echo '                                                                      '
 
+all: html ssh_upload
 
 html: clean $(OUTPUTDIR)/index.html
 	@echo 'Done'
