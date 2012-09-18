@@ -1,0 +1,44 @@
+Lesson 5
+########
+
+:date: 2012-09-18
+:category: lessons
+:tags: 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, fluids
+:summary: Continuity equations are awesome
+
+
+========
+Homework
+========
+
+1. Check in and go over problems
+
+==========
+Intro Quiz
+==========
+
+1. Quiz 2: Integrals, forces, estimation 
+
+
+===============
+Today's Topic
+===============
+
+1. Pressure and fluid flow
+
+2. Continuity equations and Bernoulli's principle
+
+3. Differential relations
+
+4. A Fermi problem
+
+
+========
+Homework
+========
+
+1. See Homework5_
+
+.. _Homework5: ../homework-5.html
+
+

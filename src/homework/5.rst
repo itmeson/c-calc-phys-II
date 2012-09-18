@@ -1,0 +1,18 @@
+Homework 5 
+##########
+
+:date: 2012-09-20
+:category: homework
+:tags: fluids, dynamics, waves
+
+
+
+0. Read: Chapters 15 and 16
+
+1. Conceptual Questions: 15.1, 16.1, 16.2,  
+
+2. Problems: 16.1, 16.3, 16.5, 16.21, 16.24, 16.29
+
+3. Submit these problems on paper at the beginning of the next class.
+
+

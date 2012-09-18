@@ -4,7 +4,7 @@ Quiz One
 :date: 2012-09-06
 :category: quizzes
 :tags: kinematics, 0.1, 0.2
-:status: draft
+
 
 1. In the crash of a fighter jet, an object travelling approximately 700 miles
 per hour (~350 meters per second) is brought to rest in about 1.5 seconds.
